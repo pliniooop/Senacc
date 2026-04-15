@@ -1,5 +1,5 @@
 Pedro Henrique de Carvalho Servulo
-public class Exercicio5 {
+public class Exercicio05 {
     public static void main(String[] args) {
 
         int i = 1;
